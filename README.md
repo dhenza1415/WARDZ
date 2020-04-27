@@ -26,7 +26,7 @@ sudo pip3 install youtube_dl<br>
 git clone https://github.com/dhenza1415/WARDZ<br>
 cd WARDZ<br>
 ls<br>
-python wardz.py<br>
+pytho3 wardz.py<br>
 ======================================== <br>
 # INSTALL MELALUI TERMUX<br>
 
