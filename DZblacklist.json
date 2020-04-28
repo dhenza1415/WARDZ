@@ -1,0 +1,20 @@
+{
+    "Talkblacklist": {},
+    "blacklist": {
+        "": true,
+        "": true,
+        "": true,
+        "": true
+    },
+    "intaPoint": {},
+    "leaveMsg": {},
+    "pCancel": {},
+    "pInvite": {},
+    "pQr": {},
+    "proCancel": {},
+    "proInvite": {},
+    "proJoin": {},
+    "proKick": {},
+    "proqr": {},
+    "welcome": {}
+}
